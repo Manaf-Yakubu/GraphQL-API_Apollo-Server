@@ -1,6 +1,7 @@
 # CodeVa GraphQL API - Advanced Task 3
 
 A comprehensive GraphQL API built with Apollo Server, Express.js, and PostgreSQL for the CodeVa Internship Program.
+![Demo](g.gif)
 
 ## 🚀 Features
 
